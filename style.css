@@ -1,0 +1,40 @@
+*{margin: 0;padding: o;outline: 0}
+body{font-family: lato;font-size: 14px;line-height: 18px;color: #000;}
+
+.template{width: 950px;padding: 5px;margin: 0 auto;background: #ddd;}
+.clear{overflow: hidden;}
+.headersection{background: #07080a none repeat scroll 0 0;height:135px;border-bottom: 0.5px solid white}
+.logo{float:left;width:370px;background: #07080a;}
+.logo img{float:left;width:370px;padding:0px 0px 0px 0px;}
+.social{float:right;}
+.social img{width:20px;padding-right:10px;padding-top: 108px;}
+.contact{float: right}
+.contact p{font-size: 10px;color: white;padding-top: 109px;padding-right: 12px;}
+.menusec{background: #000000;color:white;height:30px;}
+.menubar {float:left;border-bottom: 0.5px solid white}
+.menubar ul{list-style: none;padding-left: 10px;}
+.menubar ul li{float:left;display:block;}
+.menubar ul li a{display: block;text-decoration: none;padding: 5px 67px;color:white;font-weight: 29px;padding-top:2px}
+.menubar ul li a:hover{background-color: gray; border: 0.5px solid white; }
+.maincontent{background: white;}
+.rightcontent{background: white;width:700px;float:left;margin:px 0px 5px 0px;}
+.samepost{}
+.samepost h2{font-weight: bolder;padding:10px 0px 10px 5px;text-align: center;font-size: 25px;}
+.samepost img{width:335px;float:left;padding: 2px 2px 2px 2px;border:1px solid;margin-left: 6px;margin-bottom: 10px;}
+.samepost p{text-align: justify;padding-left: 10px;padding-right:10px;letter-spacing: 2px;padding-bottom:10px}
+.sidebar{background: black;width:240px;float:right;margin:px 0px 5px 0px;}
+.sidebarheader{border:2px solid}
+.sidebarheader h2{background:white;padding: 10px;color: Black;text-align:center;border-bottom: 2px solid gray}
+.sidebarheader ul{list-style: none;padding:0;margin:0;}
+.sidebarheader ul li{;padding:8px 8px;border-bottom: 1px dashed white;}
+.sidebarheader ul li:last-child{border-bottom: 0px dashed #cc3333;}
+.sidebarheader ul li a{text-decoration: none;color:white;font-size:13px;padding: 5px ;}
+.sidebarheader ul li a:hover{background-color: gray;border: 0.5px solid white;}
+.sidebarheader p{padding:10px;padding-right:10px;color:white;}
+.footersec{height: 70px;background: black;}
+.footermenu{text-align:center;margin-top: 15px;}
+.footermenu ul{list-style: none;padding:0;margin:0;}
+.footermenu ul li{display:inline-block;}
+.footermenu ul li a{color:white;margin-right:10px;text-decoration: none;}
+.footermenu ul li a:hover{color:gray;}
+.footermenu p{color:white;padding-top: 5px;font-size: 11px;}
